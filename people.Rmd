@@ -1,0 +1,31 @@
+---
+title: "People"
+output: 
+  html_document:
+    toc: yes
+---
+
+## Instructors
+
+#### Dr Olatunji Johnson
+
+Olatunji Johnson is a lecturer in the Department of Mathematics at the University of Manchester.
+
+- Email: olatunjijohnson21111 _[at]_ gmail _[dot]_ com
+- Web: [stephenturner.us](http://stephenturner.us)
+- Twitter: <a href="https://twitter.com/strnr">@teejay21111</a>
+<!-- - Blog: [gettinggeneticsdone.com](http://www.gettinggeneticsdone.com/) -->
+- GitHub: [github.com/olatunjijohnson](https://github.com/olatunjijohnson/)
+
+<!-- #### VP Nagraj -->
+
+<!-- VP is a research data analyst in UVA's Health Sciences Library, and runs the HSL's [Data Analysis Support Hub (DASH) service](https://www.bioconnector.virginia.edu/dash). -->
+
+<!-- - Email: vpn7n _[at]_ virginia _[dot]_ edu -->
+<!-- - GitHub: [github.com/vpnagraj](https://github.com/vpnagraj) -->
+
+## Administrative Contacts
+
+<!-- Amy Bouton: ahb8y _[at]_ virginia _[dot]_ edu -->
+
+<!-- - Sandra Burks (sgb2c _[at]_ virginia _[dot]_ edu) -->
