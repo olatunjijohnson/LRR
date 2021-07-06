@@ -1,6 +1,6 @@
 base
 knitr
 dplyr
+ggplot2
 readr
 skimr
-ggplot2

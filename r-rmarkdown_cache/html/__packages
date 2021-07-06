@@ -1,9 +1,9 @@
 base
 knitr
 dplyr
+ggplot2
 readr
 skimr
-ggplot2
 tidyr
 tidyverse
 tibble
